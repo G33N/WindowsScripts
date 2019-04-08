@@ -1,0 +1,1280 @@
+
+==============================
+Current Workstation ID: AEEU2DCP01
+3:36:10 PM
+4/8/2019
+Teamviewer ID:
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AEEU2WADFSP01
+3:36:13 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AEEU2WDCP01
+3:36:17 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AEEU2WDCP02
+3:36:20 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AGLISTENER01
+3:36:23 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALALGADDC01
+3:36:31 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALALGADDC02
+3:36:35 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALALGBNR01
+3:36:38 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALALGFP01
+3:36:42 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALALGHYPV01
+3:36:46 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALALGHYPV02
+3:36:50 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALALGSCAMERA01
+3:37:11 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALMESADDC01
+3:37:16 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALMESADDC02
+3:37:20 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALMESBNR01
+3:37:25 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALMESCAMVIEW01
+3:37:46 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALMESFP01
+3:37:51 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALMESHYPV01
+3:37:56 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALMESHYPV02
+3:38:00 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALMESMW01
+3:38:05 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALMESMW01T
+3:38:08 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALMESSCAMERA02
+3:38:30 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ALMESSCCMDP01
+3:38:35 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: APP-01-BKUP
+3:38:38 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARMDZADDC01
+3:38:40 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARMDZADDC02
+3:38:42 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARMDZBNR01
+3:38:43 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARMDZFP01
+3:38:45 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARMDZHYPV01
+3:38:47 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARMDZHYPV02
+3:38:48 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARMDZMW02
+3:38:54 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARNEUADDC01
+3:38:56 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARNEUADDC02
+3:38:57 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARNEUBNR01
+3:38:59 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARNEUFP01
+3:39:00 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARNEUHYPV01
+3:39:01 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARNEUHYPV02
+3:39:03 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARNEUMW01
+3:39:04 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARPUEADDC01
+3:39:06 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARPUEADDC02
+3:39:07 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARPUEBNR01
+3:39:09 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARPUEFP01
+3:39:10 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARPUEHYPV01
+3:39:12 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: ARPUEHYPV02
+3:39:14 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUS-APP-TEST01
+3:39:17 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUS-BT-DEV-01
+3:39:20 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUS-TFS-DEV01
+3:39:23 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUS-TFS-DEV02
+3:39:26 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUS-WEB-EPD-01
+3:39:29 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUS-WEBMW-DEV01
+3:39:32 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSACCESSTEMP04
+3:39:35 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSARC01
+3:39:42 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSBACKUP04
+3:39:45 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSBIZTALK01DR
+3:39:48 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSBIZTALK01T
+3:39:51 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSBIZTALKQA01
+3:39:54 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSBIZTALKUAT01
+3:39:57 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSBIZTLK01PRS
+3:40:00 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCONBD01
+3:40:03 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADC01
+3:40:07 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADC02
+3:40:10 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADT01
+3:40:21 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADT04
+3:40:31 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADT05
+3:40:42 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADT10
+3:40:53 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADT11
+3:41:04 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADT12
+3:41:15 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADT13
+3:41:26 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADT14
+3:41:37 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADT15
+3:41:49 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADT16
+3:41:59 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADT17
+3:42:10 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADT18
+3:42:21 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADTCMP01
+3:42:32 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADTCMP01T
+3:42:43 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADTRC01
+3:42:54 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXADTTL01
+3:43:05 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXAFAS01
+3:43:08 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXAFAS02
+3:43:12 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXARV01
+3:43:23 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXASF01
+3:43:26 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSCXASF02
+3:43:28 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSD365DEV01
+3:43:32 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSD365DEV02
+3:43:35 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSD365P01DEV
+3:43:38 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSD365P01QA
+3:43:41 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSD365P01UAT
+3:43:44 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSDEVBLD01
+3:43:47 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSDEVSVR01
+3:43:50 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSDLPDEV01
+3:43:53 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSDLPDI01
+3:43:56 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSDLPHYOV01
+3:43:59 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSDLPNM01
+3:44:02 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSDOCLOC01D
+3:44:05 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSDOCLOC01QA
+3:44:08 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSDYNTRC01T
+3:44:11 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSEPAY01D
+3:44:14 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSEPDM01
+3:44:17 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSEPDM01T
+3:44:20 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSGAIN2K01
+3:44:26 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSGETPAID01T
+3:44:29 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPFS01
+3:44:32 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPV01
+3:44:35 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPV02
+3:44:38 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPVCLC
+3:44:41 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPVCLC01
+3:44:44 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPVCLC02
+3:44:47 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPVCLC03
+3:44:50 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPVCLC04
+3:44:53 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPVCLCRB
+3:44:56 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPVCLD
+3:44:59 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPVCLD01
+3:45:02 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPVCLD02
+3:45:05 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPVCLD03
+3:45:08 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPVCLD04
+3:45:11 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPVCLD05
+3:45:14 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSHYPVCLDRB
+3:45:17 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSISE-AN01
+3:45:38 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSISE-MN01
+3:46:00 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSISE-PS01
+3:46:22 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSISEAM01
+3:46:43 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMSGTOOLS01
+3:46:51 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMSTRNC01
+3:46:54 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMSTRNC01D
+3:46:57 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMSTRNC01T
+3:47:00 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMSTRNC02
+3:47:03 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMSTRNC03
+3:47:06 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMTM01
+3:47:09 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW-SEL-Q01
+3:47:12 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW-SEL-Q02
+3:47:15 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW01T
+3:47:22 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW01UAT
+3:47:25 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW02T
+3:47:28 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW03T
+3:47:31 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW04T
+3:47:34 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW05T
+3:47:37 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW06T
+3:47:40 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW07T
+3:47:43 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW08T
+3:47:47 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW09T
+3:47:50 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW10T
+3:47:53 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSMW11T
+3:47:56 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSNRADDC01
+3:47:59 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSNRADDC02
+3:48:02 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSNRCONSOLE01
+3:48:05 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSNRHYPV01
+3:48:08 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSNRHYPV02
+3:48:11 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSORAFS01
+3:48:14 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSORAHYPDMS06
+3:48:20 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSORAHYPDMS07
+3:48:23 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSORAHYPDMS08
+3:48:26 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSORAHYPFND06
+3:48:32 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSORAHYPFND07
+3:48:35 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSORAHYPFND08
+3:48:38 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSORAHYPHFM06
+3:48:44 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSORAHYPHFM07
+3:48:47 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSORAHYPHFM08
+3:48:50 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSORAHYPPLN06
+3:48:56 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSORAHYPPLN07
+3:48:59 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
+
+==============================
+Current Workstation ID: AUSORAHYPPLN08
+3:49:02 PM
+4/8/2019
+Teamviewer ID: No Teamviewer ID
+----------------------------------------
+
