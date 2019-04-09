@@ -14,9 +14,9 @@ Set objDictionary2 = CreateObject("Scripting.Dictionary")
 
 ' Set string variables
 strDomain = "nabors.com" ' Your Domain
-strPCsFile = "node.txt" 
+strPCsFile = "nodes.txt" 
 strPath = "D:\GitHub\WindowsScripts\logs\" ' Create this folder
-strWorkstationID = "D:\GitHub\WindowsScripts\logs\TeamViewerID.txt"
+strWorkstationID = "D:\GitHub\WindowsScripts\logs\WorkstationID.txt"
 
 If objFSO.FolderExists(strPath) Then
 Wscript.Echo "This program will collect Workstation ID on remote compter(s)"
@@ -25,11 +25,26 @@ Wscript.Echo "This program will collect Workstation ID on remote compter(s)"
 oFSO.CreateFolder strPath
 End If
 
+' Get list of domain PCs - Using above variables.
+strMbox = MsgBox("Would you like info for entire domain?",3,"Hostname")
+
+'an answer of yes will return a value of 6, causing script to collect domain PC info
+If strMbox = 6 Then
+Set objPCTXTFile = objFSO.OpenTextFile(strPath & strPCsFile, ForWriting, True)
+Set objDomain = GetObject("WinNT://" & strDomain) ' Note LDAP does not work
+objDomain.Filter = Array("Computer")
+For Each pcObject In objDomain
+objPCTXTFile.WriteLine pcObject.Name
+Next
+objPCTXTFile.close
+
+Else
 'an answer of no will prompt user to input name of computer to scan and create PC file
 strHost = InputBox("Enter the computer you wish to get Workstation ID","Hostname"," ")
 Set strFile = objfso.CreateTextFile(strPath & strPCsFile, True)
 strFile.WriteLine(strHost)
 strFile.Close
+End If
 
 
 ' Read list of computers from strPCsFile into objDictionary
@@ -113,7 +128,7 @@ objTextFile2.WriteLine(vbCRLF & "==============================" & vbCRLF & _
 & "----------------------------------------" & vbCRLF)
 
 'GetWorkstationID()
-'strValue = NULL
+strValue = NULL
 
 Else
 
@@ -122,7 +137,7 @@ Else
 End If
 Next
 
-WScript.echo "TeamViewer ID : " & strValue
+WScript.echo "Finished Scanning Network check : " & strPath
 
 'objFSO.DeleteFile(strWorkstationID)
 objFSO.DeleteFile(strPath & strPCsFile)
